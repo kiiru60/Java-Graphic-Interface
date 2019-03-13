@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Toolkit
+comment1.params=x0\ y0\ x1\ y1\ c\ canvas
+comment1.target=void\ drawLine(int,\ int,\ int,\ int,\ java.awt.Color,\ javax.swing.JLabel[][])
+comment1.text=\r\n\ Basic\ incremental\ scan\ line\ conversion\ algorithm\ from\ Foley\ and\ \r\n\ van\ Dam,\ 2e.\ Given\ the\ endpoints\ of\ a\ line,\ fill\ in\ the\ appropriate\r\n\ pixels\ between\ the\ endpoints\ to\ approximate\ the\ true\ line.\r\n\ \r\n\ @param\ x0\ \ \ \ x\ coordinate\ of\ the\ first\ endpoint\r\n\ @param\ y0\ \ \ \ y\ coordinate\ of\ the\ first\ endpoint\r\n\ @param\ x1\ \ \ \ x\ coordinate\ of\ the\ second\ endpoint\r\n\ @param\ y1\ \ \ \ y\ coordinate\ of\ the\ second\ endpoint\r\n\ @param\ c\ \ \ \ \ Color\ to\ draw\ with\r\n\ @param\ canvas\ \ \ \ A\ 2D\ array\ of\ JLabels\ to\ use\ for\ drawing.\r\n
+comment2.params=centerX\ centerY\ radius\ c\ canvas
+comment2.target=void\ drawCircle(int,\ int,\ int,\ java.awt.Color,\ javax.swing.JLabel[][])
+comment2.text=\r\n\ Basic\ midpoint\ circle\ algorithm\ from\ Foley\ and\ Van\ Dam,\ 2e.\r\n\ \r\n\ @param\ centerX\ \ \ x\ coordinate\ of\ the\ center\ of\ the\ circle\r\n\ @param\ centerY\ \ \ y\ coordinate\ of\ the\ center\ of\ the\ circle\r\n\ @param\ radius\ \ \ \ radius\ of\ the\ circle.\r\n\ @param\ c\ \ \ \ \ \ \ \ \ Color\ to\ draw\ with.\r\n\ @param\ canvas\ \ \ \ A\ 2D\ array\ of\ JLabels\ to\ use\ for\ drawing.\r\n
+comment3.params=x\ y\ centerX\ centerY\ c\ canvas
+comment3.target=void\ drawCirclePoints(int,\ int,\ int,\ int,\ java.awt.Color,\ javax.swing.JLabel[][])
+comment3.text=\r\n\ Due\ to\ the\ eightfold\ symmetry\ of\ the\ circle,\ it\ is\ only\ necessary\ to\ \r\n\ compute\ the\ points\ for\ one\ eighth\ of\ the\ circle;\ the\ rest\ can\ be\ \r\n\ derived\ from\ those\ points.\ Given\ a\ point\ on\ a\ circle,\ draw\ the\ other\r\n\ seven\ points\ that\ can\ be\ determined\ by\ symmetry.\r\n\ \r\n\ @param\ x\ The\ x\ coordinate\ of\ a\ pixel\ on\ the\ circle.\r\n\ @param\ y\ The\ y\ coordinate\ of\ a\ pixel\ on\ the\ circle.\r\n\ @param\ centerX\ \ \ The\ x\ coordinate\ of\ the\ center\ of\ the\ circle.\r\n\ @param\ centerY\ \ \ The\ y\ coordinate\ of\ the\ center\ of\ the\ circle.\r\n\ @param\ c\ \ \ \ \ \ \ \ \ Color\ to\ draw\ with.\r\n\ @param\ canvas\ \ \ \ A\ 2D\ array\ of\ JLabels\ to\ use\ for\ drawing.\r\n
+comment4.params=color
+comment4.target=java.awt.Color\ stringToColor(java.lang.String)
+comment5.params=color
+comment5.target=java.lang.String\ colorToString(java.awt.Color)
+numComments=6

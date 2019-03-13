@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ public\ class\ Square\r\n\r\n\ @author\ Alex\ Kiiru\r\n\ @version\ 12/16/18\r\n
+comment1.params=
+comment1.target=Square()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square\r\n
+comment2.params=x\ y\ shapeColor\ width
+comment2.target=Square(int,\ int,\ java.awt.Color,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square\r\n\ @param\ x\ \ \ \ \r\n\ @param\ y\ \ \ \ \r\n\ @param\ shapeColor\ \ \ \ \r\n\ @param\ width\ \ \ \ \r\n
+comment3.params=shapeVar
+comment3.target=Square(java.lang.String)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square\r\n\ @param\ shapeVar\ \ \ \ \r\n
+comment4.params=myArray
+comment4.target=void\ draw(javax.swing.JLabel[][])
+comment4.text=\r\n\ Draws\ a\ Square\r\n\ \r\n\ @param\ myArray\ \ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ string\ containing\ \ the\ type\ of\ shape\ \r\n\r\n\ @return\ String\ of\ shape\ contents\r\n
+numComments=6

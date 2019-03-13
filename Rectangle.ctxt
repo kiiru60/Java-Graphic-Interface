@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ public\ class\ Rectangle\r\n\r\n\ @author\ Alex\ Kiiru\r\n\ @version\ 12/16/18\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=x\ y\ shapeColor\ width\ height
+comment2.target=Rectangle(int,\ int,\ java.awt.Color,\ int,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n\ @param\ x\ for\ x\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ y\ for\ \ y\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ shapeColor\ \ \ \ \r\n\ @param\ width\ \ \ \ \r\n\ @param\ height\ \ \ \ \r\n
+comment3.params=shapeVar
+comment3.target=Rectangle(java.lang.String)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledRectangle\r\n\ @param\ shapeData\ \ \ \ String\ with\ information\ about\ the\ shape\r\n
+comment4.params=myArray
+comment4.target=void\ draw(javax.swing.JLabel[][])
+comment4.text=\r\n\ Draws\ a\ filled\ in\ rectangle\r\n\ \r\n\ @param\ myArray\ \ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \r\n\ @return\ String\ of\ shape\ contents\ \r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FilledCircle
+comment0.text=\r\n\ public\ class\ FilledCircle\r\n\r\n\ @author\ Alex\ Kiiru\r\n\ @version\ 12/16/18\r\n
+comment1.params=
+comment1.target=FilledCircle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledCircle\r\n
+comment2.params=x\ y\ shapeColor\ r
+comment2.target=FilledCircle(int,\ int,\ java.awt.Color,\ int)
+comment2.text=\r\n\r\n\ @param\ x\ for\ x\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ y\ for\ y\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ shapeColor\ \ \ \ \r\n\ @param\ r\ \ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ string\ containing\ information\ about\ the\ shape\ such\ as\ the\ type,\r\n\ the\ x\ and\ y\ coordinates,\ the\ color,\ and\ the\ radius\r\n\ @return\ String\ of\ shape\ information\r\n
+comment4.params=shapeVar
+comment4.target=FilledCircle(java.lang.String)
+comment4.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledCircle\r\n\ @param\ shapeVar\ \ \ \ \r\n
+comment5.params=myArray
+comment5.target=void\ draw(javax.swing.JLabel[][])
+comment5.text=\r\n\ Draws\ a\ FilledCircle\r\n\ \r\n\ @param\ myArray\ \ \ \r\n
+numComments=6

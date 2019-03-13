@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FilledSquare
+comment0.text=\r\n\ public\ class\ FilledSquare\r\n\r\n\ @author\ Alex\ Kiiru\r\n\ @version\ 12/16/18\r\n
+comment1.params=
+comment1.target=FilledSquare()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledSquare\r\n
+comment2.params=x\ y\ shapeColor\ width
+comment2.target=FilledSquare(int,\ int,\ java.awt.Color,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledSquare\r\n\ @param\ x\ for\ x\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ y\ for\ y\ coordinate\ of\ the\ center\ of\ the\ rectangle\r\n\ @param\ shapeColor\ \ \ \ \r\n\ @param\ width\ \r\n
+comment3.params=shapeVar
+comment3.target=FilledSquare(java.lang.String)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ FilledSquare\r\n\ @param\ shapeVar\ \ \ \ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ string\ containing\ information\ about\ the\ shape\ such\ as\ the\ type,\r\n\ the\ x\ and\ y\ coordinates,\ the\ color,\ the\ width,\ and\ the\ height\r\n\ @return\ String\ of\ shape\ \r\n
+comment5.params=myArray
+comment5.target=void\ draw(javax.swing.JLabel[][])
+comment5.text=\r\n\ Draws\ a\ filled\ Square\r\n\ \r\n\ @param\ myArray\ \ \ \ \r\n
+numComments=6
